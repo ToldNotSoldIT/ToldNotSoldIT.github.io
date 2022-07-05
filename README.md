@@ -1,2 +1,4 @@
-# ToldNotSoldIT.github.io
-This is my site. This is a test. 
+Welcome to Told Not Sold IT!
+
+
+This site is a learning resource. 
